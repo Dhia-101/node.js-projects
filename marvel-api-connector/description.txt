@@ -1,0 +1,2 @@
+An api that connects to marvel api, retreives the list of characters
+maps, cleans the data then sends it

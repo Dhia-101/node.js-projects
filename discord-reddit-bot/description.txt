@@ -1,0 +1,2 @@
+A discord bot that check regularly in a specific subreddit 
+for new posts and posts them on a discord server
